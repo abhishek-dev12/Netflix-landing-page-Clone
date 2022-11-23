@@ -1,1 +1,1 @@
-# Clones of landing pages of popular streaming websites.  
+# Netflix landing page clone 
